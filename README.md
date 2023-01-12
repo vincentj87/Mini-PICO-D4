@@ -6,5 +6,6 @@ Mini Pico D4 is an incredibly compact development board for IoT and embedded sys
 
 - [@vincentutama](https://www.github.com/vincentutama)
 - Andrew Jonathan
-- Siti Budi
-I would like to express my sincere gratitude to [@vincentutama](https://www.github.com/vincentutama), Andrew Jonathan, Siti Budi for their generous support in funding this project. Their contribution has allowed me to bring this  idea to fruition, and I am deeply grateful for your trust and belief in our team. Thank you so much!
+- [@sitibudi](https://github.com/sitibudi)
+
+I would like to express my sincere gratitude to [@vincentutama](https://www.github.com/vincentutama), [@sitibudi](https://github.com/sitibudi), and Andrew Jonathan for their generous support in funding this project. Their contribution has allowed me to bring this  idea to fruition, and I am deeply grateful for your trust and belief in our team. Thank you so much!
